@@ -1,10 +1,10 @@
 name             'cinc-client'
 maintainer       'Alex Trull'
-maintainer_email 'alex@trull.org'
+maintainer_email 'cookbooks.alex@trull.org'
 license          'BSD V3'
 description      'Shims chef-client cookbook to work with the Cinc-Client paths'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.0.6'
+version          '0.0.7'
 source_url       'https://github.com/atrull/cinc-client_cookbook'
 issues_url       'https://github.com/atrull/cinc-client_cookbook/issues'
 depends          "chef-client"
